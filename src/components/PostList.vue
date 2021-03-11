@@ -12,9 +12,7 @@ import SinglePost from './SinglePost'
 export default {
   components: { SinglePost },
     props:['posts'],
-    setup(){
-        
-    }
+    
 }
 </script>
 
