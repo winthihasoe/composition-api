@@ -28,3 +28,10 @@ export default {
 }
 </script>
 
+<style>
+  body{
+    width: 600px;
+    margin: 30px auto;
+  }
+</style>
+

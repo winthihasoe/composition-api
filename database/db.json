@@ -1,8 +1,32 @@
 {
-    "posts":[
-        {"title":"post title 1","body":"lorem ipsum ...","id":1},
-        {"title":"post title 2","body":"lorem ipsum ...","id":2},
-        {"title":"post title 3","body":"lorem ipsum ...","id":3}
-        
-    ]
+  "posts": [
+    {
+      "title": "post title 1",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. A iusto deleniti magnam, provident expedita ut eveniet tempora iure nisi reiciendis odit nemo aliquid reprehenderit excepturi mollitia consequuntur praesentium facilis officia.",
+      "id": 1
+    },
+    {
+      "title": "post title 2",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. A iusto deleniti magnam, provident expedita ut eveniet tempora iure nisi reiciendis odit nemo aliquid reprehenderit excepturi mollitia consequuntur praesentium facilis officia.",
+      "tags": [
+        "html",
+        "php"
+      ],
+      "id": 2
+    },
+    {
+      "title": "post title 3",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. A iusto deleniti magnam, provident expedita ut eveniet tempora iure nisi reiciendis odit nemo aliquid reprehenderit excepturi mollitia consequuntur praesentium facilis officia.",
+      "id": 3
+    },
+    {
+      "title": "Test",
+      "body": "test",
+      "tags": [
+        "html",
+        "php"
+      ],
+      "id": 4
+    }
+  ]
 }
